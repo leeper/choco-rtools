@@ -4,7 +4,7 @@ build:
 	choco pack
 
 install:
-	choco install rtools -s *.nupkg -f
+	choco install rtools -s *.nupkg -f -y
 
 push:
 	choco apikey -k %CHOCOLATEY_KEY% -source https://chocolatey.org/

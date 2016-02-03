@@ -4,13 +4,13 @@
   <metadata>
     <id>rtools</id>
     <title>rtools (Install)</title>
-    <version>3.3.0</version>
+    <version>2.6.0</version>
     <authors>R Core Team</authors>
     <!--<owners>R Core Team</owners>-->
     <summary>Tools for 64 bit Windows builds</summary>
     <description>Tools for 64 bit Windows builds</description>
     <projectUrl>https://stat.ethz.ch/CRAN/bin/windows/Rtools/</projectUrl>
-    <packageSourceUrl>https://stat.ethz.ch/CRAN/bin/windows/Rtools/</packageSourceUrl>
+    <packageSourceUrl>https://github.com/leeper/choco-rtools</packageSourceUrl>
     <!--<projectSourceUrl></projectSourceUrl>
     <docsUrl></docsUrl>
     <mailingListUrl></mailingListUrl>

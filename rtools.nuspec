@@ -4,7 +4,7 @@
   <metadata>
     <id>rtools</id>
     <title>rtools (Install)</title>
-    <version>3.0.0</version>
+    <version>3.1.0</version>
     <authors>R Core Team</authors>
     <!--<owners>R Core Team</owners>-->
     <summary>Tools for 64 bit Windows builds</summary>

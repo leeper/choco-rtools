@@ -1,4 +1,4 @@
 ﻿$packageName= 'rtools'
-$url        = 'https://stat.ethz.ch/CRAN/bin/windows/Rtools/Rtools34.exe'
+$url        = 'https://cran.r-project.org/bin/windows/Rtools/Rtools35.exe'
 
 Install-ChocolateyPackage $packageName 'exe' $url
